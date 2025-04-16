@@ -1,5 +1,5 @@
-# Basic-HTML-Website-with-CSS
-This project is focused on a simple web page creation using HTML and a little bit of CSS containing multiple pages.
+# Basic-HTML-Website-with-CSS / Personal Portfolio
+This project is focused on a simple web page creation using HTML and a little bit of CSS containing multiple pages it also contains the requirements for Personal Portfolio project.
 # Project Overwiew
 **Multiple Pages**: This website includes multiple HTML pages, such as:
 <ul>
@@ -23,5 +23,7 @@ cd basic-html-website
 start index.html
 
 4. Project Reference<br>
-For more information and detailed guidance on creating a basic HTML website, please visit roadmap.sh. <a href ="https://roadmap.sh/projects/basic-html-website">Basic HTML Website Project</a>
+For more information and detailed guidance on creating a basic HTML website, please visit roadmap.sh.<br>
+<a href ="https://roadmap.sh/projects/basic-html-website">Basic HTML Website Project</a>
+<a href ="https://roadmap.sh/projects/portfolio-website">Personal Portfolio</a>
 

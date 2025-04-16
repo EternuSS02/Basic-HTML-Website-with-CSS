@@ -1,0 +1,94 @@
+
+body {
+  font-family: "Audiowide" ,sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.slash{
+margin-right: 5px;margin-left: 5px;
+}
+nav a {
+  text-decoration: none;
+margin: 0 5px;
+color: black;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+nav {
+position: fixed;
+top: 10px;
+right: 10px;
+font-family: "Audiowide", sans-serif;
+}
+.custom-heading{
+  font-family: "Audiowide", sans-serif;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;  
+ 
+  
+  background: linear-gradient(to right, #005AA7, #FFFDE4);
+  color: white;
+  border-radius: 150px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 2.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+height: -50vh;
+margin-top: 40px;  }  
+.projects-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+}
+.projects-card{
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 300px;
+}
+.articles{
+  font-family: "Audiowide", sans-serif;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;  
+}
+.articles-underline{
+  display: flexbox;
+  font-size: 2em;
+  text-decoration: underline;
+  color: blue;
+}
+.reviews-container {
+  display: flex; /* Align items side by side */
+  gap: 20px; /* Add space between the cards */
+  flex-wrap: wrap; /* Allow wrapping if the screen is too small */
+  justify-content: space-around; /* Center the cards horizontally */
+}
+
+.review-card {
+  border: 1px solid black;
+  padding: 15px;
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.9);
+}
+
+.review-card .author {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: gray;
+}

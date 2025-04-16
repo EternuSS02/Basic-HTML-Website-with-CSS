@@ -13,16 +13,15 @@ This project is focused on a simple web page creation using HTML and a little bi
 **SEO Meta Tags**: Each page contains essential meta tags for search engine optimization.<br>
 **Contact Form**: The Contact page includes a form with fields like name, email, and message to allow users to get in touch.
 # How To Run
-1. Git clone repository
+1. Git clone repository<br>
 git clone https://github.com/EternuSS02/Basic-HTML-Website-with-CSS
 
-2. Go into project directory
+2. Go into project directory<br>
 cd basic-html-website
 
-3. Start index
+3. Start index<br>
 start index.html
 
-4. Project Reference
+4. Project Reference<br>
 For more information and detailed guidance on creating a basic HTML website, please visit roadmap.sh. <a href ="https://roadmap.sh/projects/basic-html-website">Basic HTML Website Project</a>
 
-5. License
